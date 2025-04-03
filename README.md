@@ -2,6 +2,6 @@
 
 Premier commit
 
-From A
+FROMB
 
 From B
